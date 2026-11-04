@@ -1,4 +1,4 @@
-package com.example.speedometer
+package com.rensithudara.speedyvue
 
 import io.flutter.embedding.android.FlutterActivity
 
