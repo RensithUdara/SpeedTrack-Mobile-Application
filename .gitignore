@@ -49,3 +49,7 @@ app.*.map.json
 
 settings_aar.gradle
 .last_build_id
+.env
+.env.*
+.env.local
+.env.production
